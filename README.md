@@ -2,7 +2,9 @@
 
 This project showcases a Results Summary Component, providing visual and textual representations of test results in various categories. It includes responsive design and dynamic data rendering based on predefined data objects.
 
-![Results Summary Component]('./design/desktop-preview.jpg)
+## Live Demo
+
+Check out the live demo [here](https://results-summary-component-main-mentor.netlify.app/).
 
 ## Description
 
@@ -32,7 +34,3 @@ The Results Summary Component is a web application featuring two main sections:
 - `app.js`: JavaScript file for dynamic rendering of category data onto the page.
 - `assets/images/`: Directory containing icons used for different categories.
 - `favicon-32x32.png`: Favicon image for the webpage.
-
-## Live Demo
-
-Check out the live demo [here](https://results-summary-component-main-mentor.netlify.app/).
